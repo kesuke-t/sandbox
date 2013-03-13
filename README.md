@@ -1,4 +1,4 @@
 test
 ====
 
-Testing GitHub
+練習用のプロジェクトです。
