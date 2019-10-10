@@ -1,2 +1,2 @@
-println ''
+println 'C'
 println 'Hello GitHub!!'
